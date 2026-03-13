@@ -152,6 +152,4 @@ Or deploy directly:
 npx vercel
 ```
 
-## License
 
-MIT
